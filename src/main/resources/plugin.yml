@@ -1,0 +1,4 @@
+name: emptymaven
+version: '1.0-SNAPSHOT'
+main: org.maurijst.MavenTest.emptymaven.Emptymaven
+api-version: '1.20'
