@@ -1,6 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="Emptymaven">
-    <output-path>$PROJECT_DIR$/out/artifacts/Emptymaven</output-path>
-    <root id="archive" name="Emptymaven.jar" />
-  </artifact>
-</component>
